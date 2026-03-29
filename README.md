@@ -30,10 +30,6 @@
 ---
 
 ## 📊 GitHub Stats  
-## 📊 GitHub Stats  
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sbanerjee91&show_icons=true&theme=tokyonight" />
 
 <img src="https://streak-stats.demolab.com?user=Sbanerjee91&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sbanerjee91&layout=compact&theme=tokyonight" />
