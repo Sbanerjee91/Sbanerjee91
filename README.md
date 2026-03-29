@@ -29,14 +29,10 @@
 
 ---
 
-### 📈 GitHub Stats  
-
 ## 📊 GitHub Stats  
 
-## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sbanerjee91&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sbanerjee91&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![GitHub Streak](https://streak-stats.demolab.com?user=Sbanerjee91&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sbanerjee91&layout=compact&theme=tokyonight&hide_border=true)
