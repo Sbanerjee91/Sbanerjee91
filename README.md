@@ -28,7 +28,11 @@
 - 🧩 Kanto Pokédex  
 
 ---
+## 🐍 Contribution Snake  
 
+![Snake animation](https://github.com/Sbanerjee91/Sbanerjee91/blob/output/github-contribution-grid-snake.svg)
+
+---
 ## 📊 GitHub Stats  
 
 <img src="https://streak-stats.demolab.com?user=Sbanerjee91&theme=tokyonight" />
