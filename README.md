@@ -30,6 +30,10 @@
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sbanerjee91&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Sbanerjee91&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Sbanerjee91&show_icons=true&theme=tokyonight" />
+
+<img src="https://streak-stats.demolab.com?user=Sbanerjee91&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sbanerjee91&layout=compact&theme=tokyonight" />
