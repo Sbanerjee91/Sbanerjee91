@@ -30,7 +30,7 @@
 ---
 ## 🐍 Contribution Snake  
 
-![Snake animation](https://github.com/Sbanerjee91/Sbanerjee91/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Sbanerjee91/Sbanerjee91/output/github-contribution-grid-snake.svg)
 
 ---
 ## 📊 GitHub Stats  
