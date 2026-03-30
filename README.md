@@ -29,7 +29,7 @@
 
 ---
 ## 🐍 Contribution Snake  
-
+![snake gif](https://github.com/Sbanerjee91/Sbanerjee91/blob/output/github-snake-dark.svg)
 
 ---
 ## 📊 GitHub Stats  
