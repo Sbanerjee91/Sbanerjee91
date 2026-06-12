@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me  
 
-🎓 BSc IT Final Year Student  
+🎓 BSc IT Graduate  
 📚 Currently learning & improving my development skills  
 💻 Interested in Web Development  
 🚀 Built 5 Projects (Academic + Personal)  
