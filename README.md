@@ -3,7 +3,7 @@
 🎓 BSc IT Final Year Student  
 📚 Currently learning & improving my development skills  
 💻 Interested in Web Development  
-🚀 Built 4 Projects (Academic + Personal)  
+🚀 Built 5 Projects (Academic + Personal)  
 🔍 Exploring real-world applications and advanced concepts  
 🎯 Goal: Become a Full-Stack Developer  
 
