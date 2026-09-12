@@ -22,8 +22,8 @@
 
 ### 🚀 Projects  
 
-- 🛒 E-commerce Website (HTML, CSS, JS, Django)  
-- 📄 Resume Builder (Ongoing Major Project)  
+- 🛒 E-commerce Website   
+- 📄 AI Resume Builder 
 - 📝 To-Do App  
 - 🧩 Kanto Pokédex
 - AI Chatbot
