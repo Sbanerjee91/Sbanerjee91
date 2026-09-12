@@ -28,6 +28,7 @@
 - 🧩 Kanto Pokédex
 - AI Chatbot
 - Expense Tracker
+- Batman Theme Portfolio
 
 ---
 ## 🐍 Contribution Snake  
