@@ -3,9 +3,9 @@
 🎓 BSc IT Graduate  
 📚 Currently learning & improving my development skills  
 💻 Interested in Web Development  
-🚀 Built 5 Projects (Academic + Personal)  
+🚀 Built Projects (Academic + Personal)  
 🔍 Exploring real-world applications and advanced concepts  
-🎯 Goal: Become a Full-Stack Developer  
+🎯 Goal: Become a Web Developer  
 
 ---
 
@@ -25,7 +25,9 @@
 - 🛒 E-commerce Website (HTML, CSS, JS, Django)  
 - 📄 Resume Builder (Ongoing Major Project)  
 - 📝 To-Do App  
-- 🧩 Kanto Pokédex  
+- 🧩 Kanto Pokédex
+- AI Chatbot
+- Expense Tracker
 
 ---
 ## 🐍 Contribution Snake  
