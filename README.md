@@ -34,16 +34,17 @@
 
 ### 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| 🛒 [**E-commerce Website**](https://github.com/Sbanerjee91/E-commerce-) | An online store front built to practice full end-to-end e-commerce flows |
-| 🦇 [**Batman Theme Portfolio**](https://github.com/Sbanerjee91/Bat-theme-Portfolio) | A personal portfolio site styled around a Batman theme |
-| 🖊️ **CollabBoard** | A real-time collaborative whiteboard — draw, type, and share images with others live, built with Django + Django Channels (WebSockets) |
-| 📄 AI Resume Builder | A tool for generating resumes with AI assistance |
-| 📝 To-Do App | A task-tracking app for everyday productivity |
-| 🧩 Kanto Pokédex | A browsable Pokédex covering the original 151 |
-| 🤖 AI Chatbot | A conversational assistant project |
-| 💰 Expense Tracker | A personal finance tracker for logging expenses |
+| Project | Description | Check-Repo | 
+|---|---|---|
+| 🛒 **E-commerce Website** | An online store front built to practice full end-to-end e-commerce flows | <a href="https://github.com/Sbanerjee91/E-commerce-"><img src="https://img.shields.io/badge/Here-ffffff?style=for-the-badge&logo=click&logoColor=blue" /></a>
+| 🦇 **Batman Theme Portfolio** | A personal portfolio site styled around a Batman theme | <a href="https://github.com/Sbanerjee91/Bat-theme-Portfolio"><img src="https://img.shields.io/badge/Here-000000?style=for-the-badge&logo=none&logoColor=white" /></a>
+| 🖊️ **CollabBoard** | A real-time collaborative whiteboard — draw, type, and share images with others live, built with Django + Django Channels (WebSockets) | <a href="https://github.com/Sbanerjee91/CollabBoard"><img src="https://img.shields.io/badge/Here-ffffff?style=for-the-badge&logo=none&logoColor=blue" /></a>
+| 📄 **AI Resume Builder** | A tool for generating resumes with AI assistance | <a href="https://github.com/Sbanerjee91/Ai-Resume-and-Cover-Letter"><img src="https://img.shields.io/badge/Here-000000?style=for-the-badge&logo=none&logoColor=white" /></a>
+| 📝 **To-Do App** | A task-tracking app for everyday productivity | <a href="https://github.com/Sbanerjee91/To-Do"><img src="https://img.shields.io/badge/Here-ffffff?style=for-the-badge&logo=none&logoColor=blue" /></a>
+| 🧩 **Kanto Pokédex** | A browsable Pokédex covering the original 151 | <a href="https://github.com/Sbanerjee91/Ai-Resume-and-Cover-Letter"><img src="https://img.shields.io/badge/Here-000000?style=for-the-badge&logo=none&logoColor=white" /></a>
+| 🤖 **AI Chatbot** | A conversational assistant project | <a href="https://github.com/Sbanerjee91/Kanto-Database"><img src="https://img.shields.io/badge/Here-ffffff?style=for-the-badge&logo=none&logoColor=blue" /></a>
+| 💰 **Expense Tracker** | A personal finance tracker for logging expenses | <a href="https://github.com/Sbanerjee91/Expense-Tracker"><img src="https://img.shields.io/badge/Here-000000?style=for-the-badge&logo=none&logoColor=white" /></a>
+
 
 ---
 ### 📫 Connect with me
