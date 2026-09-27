@@ -45,8 +45,6 @@
 | 🤖 AI Chatbot | A conversational assistant project |
 | 💰 Expense Tracker | A personal finance tracker for logging expenses |
 
-> Update the links above as you push each project to its own repository — GitHub will auto-link any repo name that matches.
-
 ---
 ### 📫 Connect with me
 
