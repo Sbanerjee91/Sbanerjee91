@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Sbanerjee91 👋</h1>
+<h1 align="center">Hi there, I'm Sujoy Banerjee 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E97F7&center=true&vCenter=true&width=460&lines=BSc+IT+Graduate;Aspiring+Web+Developer;Currently+learning+Django+%26+Full-Stack+Dev;Turning+ideas+into+working+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E97F7&center=true&vCenter=true&width=460&lines=Eager+to+learn;Aspiring+Developer;Turning+ideas+into+working+projects" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 - 💻 Interested in Web Development — frontend and backend
 - 🚀 Building projects, academic and personal, to learn by doing
 - 🔍 Exploring real-world applications and more advanced concepts
-- 🎯 Goal: become a well-rounded Web Developer
+- 🎯 Goal: become a well-rounded Developer
 
 ---
 
@@ -48,32 +48,13 @@
 > Update the links above as you push each project to its own repository — GitHub will auto-link any repo name that matches.
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sbanerjee91&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sbanerjee91&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sbanerjee91&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sbanerjee91/Sbanerjee91/output/github-snake-dark.svg" alt="Contribution snake animation" />
-</p>
-
----
-
 ### 📫 Connect with me
 
 <p>
-  <a href="https://github.com/Sbanerjee91"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Sbanerjee91"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="s.banerjeekv@gmail.com"><img src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=red" /></a>
+  <a href="https://batman-theme-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=bat&logoColor=black" /></a>
+  <a href="[https://batman-theme-portfolio.netlify.app/](https://www.linkedin.com/in/sujoybanerjeekv/)"><img src="https://img.shields.io/badge/LinkedIn-1133A6?style=for-the-badge&logo=linkedin&logoColor=White" /></a>
   <!-- Add your LinkedIn, email, or portfolio link here, e.g.: -->
   <!-- <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> -->
 </p>
